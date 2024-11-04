@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "memory": "c",
+        "memory.h": "c",
+        "corecrt_memory.h": "c",
+        "xutility": "c"
+    }
+}

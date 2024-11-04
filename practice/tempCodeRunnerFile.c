@@ -1,0 +1,2 @@
+mp;
+    temp = fgetc(fp
